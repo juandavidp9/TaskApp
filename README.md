@@ -1,23 +1,24 @@
 # Task App
 Task Application with crud and authentication module
 
-Built with: Django https://www.djangoproject.com/
+Built with: Django 
+https://www.djangoproject.com/
 
 
 ## Installation
 
-<strong>1.Install libraries necessary for the project</strong>
+<strong>1. Install libraries necessary for the project</strong>
 ```
 pip install -r requirements.txt
 ```
-<strong>2.Run migrations</strong>
+<strong>2. Run migrations</strong>
 ```
 python manage.py makemigrations
 ```
 ```
 python manage.py migrate
 ```
-<strong>3.Create an admin User</strong>
+<strong>3. Create an admin User</strong>
 ```
 python manage.py createsuperuser
 ```
