@@ -7,7 +7,7 @@ https://www.djangoproject.com/
 
 ## Installation
 
-<strong>1. Install libraries necessary for the project</strong>
+<strong>1. Install necessary libraries for the project</strong>
 ```
 pip install -r requirements.txt
 ```
